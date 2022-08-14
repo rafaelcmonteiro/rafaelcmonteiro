@@ -39,6 +39,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
@@ -53,4 +54,4 @@ You can use the website to generate badges: https://shields.io/
 -----
 Credits: [zjayers](https://github.com/zjayers)
 
-Last Edited on: 30/08/2020
+Last Edited on: 14/08/2022
