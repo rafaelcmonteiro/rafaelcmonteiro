@@ -1,13 +1,15 @@
 <!-- Your title -->
 
-## Rafael Cardoso Monteiro
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cardoso-monteiro/)
+<h2 align="center">👋 Hello! I'm Athul.</h2>
+<p align="center">
+  <a href="https://medium.com/@rafael31101995/">Medium</a> •
+  <a href="https://www.linkedin.com/in/rafael-cardoso-monteiro/">Linkedin</a>
+</p>
+I'm 27 year old and I'll graduating late this year in computer science. I've Worked as a DevOps engineer for the last two years and my first expience were as software develop using Python. I'm currently trying to contribute to any large scale opensource project.
 
-## Hello there!
+</br>
 
-I'm Rafael Cardoso, 27 year old, I'm graduating late this year in computer science. I worked as a DevOps engineer for the last two years and My first expience were as software develop using Python. 
-
-I'm currently trying to contribute to any large scale opensource project.
+**Tools:**
 
 While in the feild I had to work with a bunch of tools, here's a list of them:
 
@@ -34,3 +36,10 @@ You can use the website to generate badges: https://shields.io/
 
 `My idea is to get Linux Administrator certificate and became a developer in Golang and Python.`
 
+&nbsp;
+
+**📝 Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [Python Path](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- BLOG-POST-LIST:END -->
