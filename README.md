@@ -42,4 +42,6 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- BLOG-POST-LIST:START -->
 - [Python Path](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- [What is a good python project to start with pyhon](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- [Python Design Patern to start](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!-- BLOG-POST-LIST:END -->
