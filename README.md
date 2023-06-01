@@ -1,6 +1,6 @@
 <!-- Your title -->
 
-<h2 align="center">👋 Hello! I'm Athul.</h2>
+<h2 align="center">👋 Hello! I'm Rafael.</h2>
 <p align="center">
   <a href="https://medium.com/@rafael31101995/">Medium</a> •
   <a href="https://www.linkedin.com/in/rafael-cardoso-monteiro/">Linkedin</a>
