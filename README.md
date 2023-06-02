@@ -7,10 +7,9 @@
 </p>
 I'm 27 year old and I'll graduating late this year in computer science. I've Worked as a DevOps engineer for the last two years and my first expience were as software develop using Python. I'm currently trying to contribute to any large scale opensource project.
 
-</br>
+&nbsp;
 
 **Tools:**
-
 While in the feild I had to work with a bunch of tools, here's a list of them:
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
